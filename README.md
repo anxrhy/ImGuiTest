@@ -21,7 +21,9 @@ cmake --build build/
 ```
 
 ### Run
-```./build/ImGuiTest```
+```
+./build/ImGuiTest
+```
 
 ### Project Structure
 ```
